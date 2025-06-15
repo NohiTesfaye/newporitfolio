@@ -1,0 +1,3 @@
+interface is completely abstract
+have method no body 
+implementts methods to inherit
